@@ -1,0 +1,10 @@
+100001 - Áo khoác - Hàng thời trang - 500000 - ABC Company - 2022-01-01 - 2023-01-01
+100002 - Bánh mì - Thực phẩm - 10000 - XYZ Bakery - 2022-02-15 - 2022-03-15
+100003 - Tivi - Điện máy - 10000000 - DEF Electronics - 2022-03-10 - 2022-03-15
+100004 - Kem dưỡng da - Mỹ phẩm - 200000 - GHI Cosmetics - 2022-04-20 - 2023-04-20
+100005 - Quần jeans - Hàng thời trang - 800000 - Fashion Company - 2022-05-05 - 2023-05-05
+100006 - Sữa tắm - Chăm sóc cá nhân - 50000 - Body Care - 2022-06-10 - 2023-06-10
+100007 - Điện thoại di động - Điện tử - 10000000 - Mobile Company - 2022-07-15 - 2023-09-27
+100008 - Bàn chải đánh răng - Chăm sóc cá nhân - 20000 - Oral Care - 2022-08-20 - 2023-08-20
+100009 - Quần áo trẻ em - Hàng thời trang - 300000 - Kids Fashion - 2022-09-25 - 2023-09-25
+100010 - Máy tính xách tay - Điện tử - 15000000 - Laptop Company - 2022-10-30 - 2023-04-20

@@ -1,0 +1,10 @@
+001183000000 - Nguyen Van A - 1990-01-01 - 123 Nguyen Van A, HCM - 0323456789 - nguyenvana@gmail.com - 100000 - mua buôn - 10
+001183000001 - Tran Thi B - 1992-05-10 - 456 Tran Thi B, HN - 0487654321 - tranthib@gmail.com - 100001 - mua lẻ - 10
+001183000002 - Le Van C - 1985-09-15 - 789 Le Van C, DN - 0369852147 - levanc@gmail.com - 100002 - mua buôn - 10
+001183000003 - Pham Thi D - 1998-03-20 - 321 Pham Thi D, HCM - 0712345678 - phamthid@gmail.com - 100003 - mua buôn - 20
+001183000004 - Hoang Van E - 1993-07-05 - 654 Hoang Van E, HN - 0476543210 - hoangvane@gmail.com - 100004 - mua lẻ - 10
+001183000005 - Nguyen Thi F - 1991-11-12 - 987 Nguyen Thi F, HN - 0723456789 - nguyenthif@gmail.com - 100005 - mua buôn - 40
+001183000006 - Tran Van G - 1988-04-25 - 741 Tran Van G, HCM - 0387654321 - tranvang@gmail.com - 100006 - mua buôn - 50
+001183000007 - Le Thi H - 1995-08-30 - 852 Le Thi H, DN - 0369852147 - lethih@gmail.com - 100007 - mua lẻ - 10
+001183000008 - Pham Van I - 1997-02-15 - 963 Pham Van I, HN - 0412345678 - phamvani@gmail.com - 100008 - mua buôn - 60
+001183000009 - Hoang Thi J - 1994-06-20 - 369 Hoang Thi J, HCM - 0776543210 - hoangthij@gmail.com - 100009 - mua buôn - 10
